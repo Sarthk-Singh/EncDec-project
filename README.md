@@ -32,6 +32,6 @@ This project demonstrates a foundational approach to selecting cryptographic key
 ### 🔧 Run the script:
 
 ```bash
-python test3.selecting.key.files.py
+python CryptKeyGen.py
 
 
