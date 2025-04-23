@@ -19,5 +19,19 @@ This project demonstrates a foundational approach to selecting cryptographic key
 
 ---
 
-## 📁 File Structure
+## ⚙️ How It Works
+
+1. **Generate Keys**: Choose between random and pseudo-random modes.
+2. **Store Keys**: Save generated keys to an output file.
+3. **Compare Outputs**: See the difference in entropy and predictability.
+
+---
+
+## 🛠️ Usage
+
+### 🔧 Run the script:
+
+```bash
+python test3.selecting.key.files.py
+
 
